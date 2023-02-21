@@ -3,7 +3,10 @@
     margin: 0;
     padding: 0;
 }
-
+img {
+width: 27%;
+height: 36%;
+}
 body {
     margin: 0em 0em 0em 0em;
     font-family: Arial, sans-serif;
