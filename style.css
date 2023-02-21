@@ -5,13 +5,16 @@
 }
 
 body {
-    margin: 3em 1em 2em 3em;
     font-family: Arial, sans-serif;
 }
 .inyou{
   margin:1em 5em;
   background: #ffffff;
   padding: 0.5em;
+}
+main{
+    margin: 3em 1em 2em 3em;
+    font-family: Arial, sans-serif;
 }
 header {
     background-color: #333;
