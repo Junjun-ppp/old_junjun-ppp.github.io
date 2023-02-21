@@ -60,6 +60,15 @@ nav ul li a {
     font-size: 1.5em;
 }
 
-main {
-    margin: 50px;
+#文字サイズの変更
+h1 {
+  font-size: 3.5em;
+}
+
+h2 {
+  font-size: 3em;
+}
+
+h3 {
+  font-size: 2.5em;
 }
