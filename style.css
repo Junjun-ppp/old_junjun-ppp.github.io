@@ -1,4 +1,4 @@
-@media screen and (min-width:481px){
+
 * {
     box-sizing: border-box;
     margin: 0;
@@ -26,9 +26,11 @@ main{
     margin: 3em 1em 2em 3em;
     font-family: Arial, sans-serif;
 }
+@media screen and (min-width:481px){
 img {
 width: 27%;
 height: 36%;
+}
 }
 header {
     background-color: #333;
@@ -97,7 +99,7 @@ h3 {
 h4 {
   font-size: 3em;
 }
-}
+
 @media screen and (max-width:480px){
 * {
 	float: none;
