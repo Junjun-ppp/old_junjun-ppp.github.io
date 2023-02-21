@@ -92,3 +92,98 @@ h3 {
 h4 {
   font-size: 3em;
 }
+
+@media screen and (max-width:480px){
+* {
+	float: none;
+	position: static;
+}
+
+img {
+	max-width: 100%;
+	height: auto;
+    }
+body {
+    margin: 0em 0em 0em 0em;
+    font-family: Arial, sans-serif;
+}
+.inyou{
+  margin:1em 0.5em;
+  background: #ffffff;
+  padding: 0.5em;
+}
+.class1 {
+  text-align: center;
+}
+main{
+    margin: 3em 1em 2em 3em;
+    font-family: Arial, sans-serif;
+}
+header {
+    background-color: #333;
+    color: white;
+    padding: 20px;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+nav ul li:last-child {
+    margin-right: 0;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+#banner {
+    background-image: url("banner-image2.jpg");
+    background-size: cover;
+    background-position: left center;
+    color: white;
+    padding: 80px;
+    text-align: center;
+}
+
+#banner h1 {
+    font-size: 4em;
+}
+
+#banner p {
+    font-size: 1.5em;
+}
+
+
+p{
+    font-size: 1.5em;
+}
+br{
+    font-size: 1.5em;
+}
+ul{
+    font-size: 1.5em;
+}
+h1 {
+  font-size: 3.8em;
+}
+
+h2 {
+  font-size: 2.5em;
+}
+
+h3 {
+  font-size: 2em;
+}
+h4 {
+  font-size: 3em;
+}
+}
