@@ -3,10 +3,7 @@
     margin: 0;
     padding: 0;
 }
-img {
-width: 27%;
-height: 36%;
-}
+
 body {
     margin: 0em 0em 0em 0em;
     font-family: Arial, sans-serif;
@@ -27,6 +24,10 @@ body {
 main{
     margin: 3em 1em 2em 3em;
     font-family: Arial, sans-serif;
+}
+img {
+width: 27%;
+height: 36%;
 }
 header {
     background-color: #333;
