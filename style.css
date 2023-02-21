@@ -13,6 +13,9 @@ body {
   background: #ffffff;
   padding: 0.5em;
 }
+.class1 {
+  text-align: center;
+}
 main{
     margin: 3em 1em 2em 3em;
     font-family: Arial, sans-serif;
