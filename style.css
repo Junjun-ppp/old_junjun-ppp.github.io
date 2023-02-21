@@ -35,15 +35,16 @@ nav ul li a {
 }
 
 #banner {
-    background-image: url("banner-image.jpg");
+    background-image: url("banner-image2.jpg");
     background-size: cover;
+    background-position: left center;
     color: white;
-    padding: 50px;
+    padding: 80px;
     text-align: center;
 }
 
 #banner h1 {
-    font-size: 3em;
+    font-size: 4em;
 }
 
 #banner p {
@@ -52,18 +53,3 @@ nav ul li a {
 
 main {
     margin: 50px;
-}
-
-section {
-    margin-bottom: 50px;
-}
-
-section h2 {
-    font-size: 2em;
-    margin-bottom: 20px;
-}
-
-ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 
